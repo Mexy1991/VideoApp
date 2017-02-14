@@ -17,5 +17,12 @@ public void ChangeScene(string sceneName)
         Application.LoadLevel("video_" + Random.Range(4, 6));
 
     }
+
+	public void BackToMain(string sceneName)
+    {
+        //   Application.LoadLevel(sceneName);
+        Application.LoadLevel("Main");
+
+    }
 }
 

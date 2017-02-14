@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
  using System.Collections;
  
- public class PlayVideo1 : MonoBehaviour {
-     private string movPath = "small.ogv";
+ public class PlayVideo2 : MonoBehaviour {
+	private string movPath = "SampleVideo.mp4";
  
      // Use this for initialization
      void Start () {

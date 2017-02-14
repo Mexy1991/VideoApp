@@ -2,7 +2,7 @@
  using System.Collections;
  
  public class PlayVideo1 : MonoBehaviour {
-     private string movPath = "small.ogv";
+     private string movPath = "SampleVideo.mp4";
  
      // Use this for initialization
      void Start () {
