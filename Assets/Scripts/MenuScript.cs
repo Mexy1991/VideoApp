@@ -18,7 +18,19 @@ public void ChangeScene(string sceneName)
 
     }
 
-	public void BackToMain(string sceneName)
+
+    public void ChangeToCredits(string sceneName)
+    {
+        Application.LoadLevel("Credits");
+        Application.LoadLevel("Main");
+
+
+
+    }
+
+
+
+    public void BackToMain(string sceneName)
     {
         //   Application.LoadLevel(sceneName);
         Application.LoadLevel("Main");
