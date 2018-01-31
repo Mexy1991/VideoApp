@@ -13,7 +13,7 @@ The content on in the app is protected by <a href="videnskab.dk/side/rettigheder
 Josephine Søgaard Andersen.
 
 Email: josephine.s.andersen@gmail.com<br>
-Twitter: http://twitter.com/jose_phi<br>
+Twitter: http://twitter.com/sogaardandersen<br>
 GitHub: https://github.com/mexy1991<br>
 
 <b>Graphics:</b><br>
